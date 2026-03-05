@@ -404,8 +404,8 @@ If you find this library useful, please consider:
 
 ## 📞 Contact
 
-- GitHub Issues: [Report a bug or request a feature](https://github.com/[your-username]/fluent-validators/issues)
-- GitHub Discussions: [Ask questions and discuss](https://github.com/[your-username]/fluent-validators/discussions)
+- GitHub Issues: [Report a bug or request a feature](https://github.com/UkashaAhmed/fluent-validators/issues)
+- GitHub Discussions: [Ask questions and discuss](https://github.com/UkashaAhmed/fluent-validators/discussions)
 
 ---
 
